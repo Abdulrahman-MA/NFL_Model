@@ -1,0 +1,15 @@
+{
+  "best_params": {
+    "n_estimators": 2830,
+    "learning_rate": 0.059825842212324946,
+    "max_depth": 4,
+    "min_child_weight": 44,
+    "subsample": 0.7056134385420851,
+    "colsample_bytree": 0.7460421183751335,
+    "reg_alpha": 0.36891895608173125,
+    "reg_lambda": 0.10196132931864287,
+    "gamma": 3.7151122011514457
+  },
+  "best_value": 0.8401976029498666,
+  "n_trials": 80
+}

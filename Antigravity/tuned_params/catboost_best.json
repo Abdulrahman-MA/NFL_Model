@@ -1,0 +1,15 @@
+{
+  "best_params": {
+    "bootstrap_type": "Bayesian",
+    "iterations": 1488,
+    "learning_rate": 0.09772277979852374,
+    "depth": 5,
+    "l2_leaf_reg": 18.80879393553075,
+    "min_data_in_leaf": 48,
+    "colsample_bylevel": 0.439370503061343,
+    "random_strength": 8.771202318469008,
+    "bagging_temperature": 2.0884421985398856
+  },
+  "best_value": 0.840400627447778,
+  "n_trials": 80
+}

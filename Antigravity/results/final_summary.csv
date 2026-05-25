@@ -1,0 +1,13 @@
+name,oof_auc,fold_mean,fold_std,file
+blend_rank_weighted,0.841949965236308,,,blend_rank_weighted.csv
+blend_rank_top3,0.8405514780523713,,,blend_rank_top3.csv
+blend_rank_top2,0.8391464691317697,,,blend_rank_top2.csv
+et_tuned,0.8391121591258378,0.8393947430313471,0.03478490806864935,et_tuned.csv
+stack_lr_meta,0.8388218000673724,,,stack_lr_meta.csv
+stack_lr_rank_meta,0.8388036526262184,,,stack_lr_rank_meta.csv
+blend_rank_mean,0.8374916493415314,,,blend_rank_mean.csv
+blend_prob_mean,0.8373830482483751,,,blend_prob_mean.csv
+xgb_tuned,0.8283799325595718,0.8443235872029129,0.030828076751772078,xgb_tuned.csv
+catboost_tuned,0.823030974279405,0.8470028867425917,0.029803202648300386,catboost_tuned.csv
+lgbm_tuned,0.8105041359152606,0.8375554830350435,0.030459300387544817,lgbm_tuned.csv
+catboost_historical,0.7972945000776938,0.8400005306654567,0.03628730506470317,catboost_historical.csv

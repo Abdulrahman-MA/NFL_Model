@@ -1,0 +1,6 @@
+,Id,Year,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,Broad_Jump,Agility_3cone,Shuttle,Player_Type,Position_Type,Position,Drafted
+0,0,2011,21.0,Lehigh,1.905,140.1600423,5.39,59.69,29.0,251.46,7.91,4.94,offense,offensive_lineman,OG,1.0
+1,1,2011,24.0,Abilene Christian,1.8288,87.08973504,4.31,101.6,16.0,332.74,,,offense,backs_receivers,WR,1.0
+2,2,2018,21.0,Colorado St.,1.8542,92.98643585,4.51,91.44,10.0,309.88,6.95,4.37,offense,backs_receivers,WR,1.0
+3,3,2010,21.0,East Carolina,1.9304,148.7782974,5.09,76.2,39.0,254.0,8.12,4.71,defense,defensive_lineman,DT,1.0
+4,4,2016,21.0,California,1.8796,92.07925111,4.64,78.74,,281.94,7.13,4.2,offense,backs_receivers,WR,1.0

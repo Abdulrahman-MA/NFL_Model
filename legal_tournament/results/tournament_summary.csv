@@ -1,0 +1,13 @@
+name,auc,submission,fold_mean,fold_std
+blend_rank_random_search,0.8428102673685188,legal_tournament\submissions\blend_rank_random_search.csv,,
+blend_rank_mean_top4,0.8391532744222024,legal_tournament\submissions\blend_rank_mean_top4.csv,,
+extra_trees_rich_10fold,0.8387951460131773,legal_tournament\submissions\extra_trees_rich_10fold.csv,0.8396238106603733,0.03114245806023764
+blend_prob_mean_all,0.8386306848277183,legal_tournament\submissions\blend_prob_mean_all.csv,,
+blend_rank_mean_all,0.8350922173564396,legal_tournament\submissions\blend_rank_mean_all.csv,,
+blend_lr_meta_oof,0.8345713290845637,legal_tournament\submissions\blend_lr_meta_oof.csv,,
+rf_rich_10fold,0.8331620668574417,legal_tournament\submissions\rf_rich_10fold.csv,0.8331443224704967,0.0311428884559171
+xgb_rich_10fold,0.805463400580945,legal_tournament\submissions\xgb_rich_10fold.csv,0.8356606675154732,0.033592430606587446
+cat_rich_10fold,0.8051843836732009,legal_tournament\submissions\cat_rich_10fold.csv,0.8390625325712675,0.039563876352459074
+lgbm_rich_10fold,0.8047933630270839,legal_tournament\submissions\lgbm_rich_10fold.csv,0.8368911047360221,0.03485724164847066
+cat_legacy_10fold,0.783025223808989,legal_tournament\submissions\cat_legacy_10fold.csv,0.8379865335285641,0.03784310955194509
+cat_clean_10fold,0.7601101095992024,legal_tournament\submissions\cat_clean_10fold.csv,0.837175716910143,0.03894171789690182

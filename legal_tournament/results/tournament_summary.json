@@ -1,0 +1,93 @@
+{
+  "best": {
+    "name": "blend_rank_random_search",
+    "auc": 0.8428102673685188,
+    "submission": "legal_tournament\\submissions\\blend_rank_random_search.csv"
+  },
+  "results": [
+    {
+      "name": "cat_clean_10fold",
+      "auc": 0.7601101095992024,
+      "submission": "legal_tournament\\submissions\\cat_clean_10fold.csv",
+      "fold_mean": 0.837175716910143,
+      "fold_std": 0.03894171789690182
+    },
+    {
+      "name": "cat_legacy_10fold",
+      "auc": 0.783025223808989,
+      "submission": "legal_tournament\\submissions\\cat_legacy_10fold.csv",
+      "fold_mean": 0.8379865335285641,
+      "fold_std": 0.03784310955194509
+    },
+    {
+      "name": "cat_rich_10fold",
+      "auc": 0.8051843836732009,
+      "submission": "legal_tournament\\submissions\\cat_rich_10fold.csv",
+      "fold_mean": 0.8390625325712675,
+      "fold_std": 0.039563876352459074
+    },
+    {
+      "name": "lgbm_rich_10fold",
+      "auc": 0.8047933630270839,
+      "submission": "legal_tournament\\submissions\\lgbm_rich_10fold.csv",
+      "fold_mean": 0.8368911047360221,
+      "fold_std": 0.03485724164847066
+    },
+    {
+      "name": "xgb_rich_10fold",
+      "auc": 0.805463400580945,
+      "submission": "legal_tournament\\submissions\\xgb_rich_10fold.csv",
+      "fold_mean": 0.8356606675154732,
+      "fold_std": 0.033592430606587446
+    },
+    {
+      "name": "extra_trees_rich_10fold",
+      "auc": 0.8387951460131773,
+      "submission": "legal_tournament\\submissions\\extra_trees_rich_10fold.csv",
+      "fold_mean": 0.8396238106603733,
+      "fold_std": 0.03114245806023764
+    },
+    {
+      "name": "rf_rich_10fold",
+      "auc": 0.8331620668574417,
+      "submission": "legal_tournament\\submissions\\rf_rich_10fold.csv",
+      "fold_mean": 0.8331443224704967,
+      "fold_std": 0.0311428884559171
+    },
+    {
+      "name": "blend_prob_mean_all",
+      "auc": 0.8386306848277183,
+      "submission": "legal_tournament\\submissions\\blend_prob_mean_all.csv",
+      "fold_mean": NaN,
+      "fold_std": NaN
+    },
+    {
+      "name": "blend_rank_mean_all",
+      "auc": 0.8350922173564396,
+      "submission": "legal_tournament\\submissions\\blend_rank_mean_all.csv",
+      "fold_mean": NaN,
+      "fold_std": NaN
+    },
+    {
+      "name": "blend_rank_mean_top4",
+      "auc": 0.8391532744222024,
+      "submission": "legal_tournament\\submissions\\blend_rank_mean_top4.csv",
+      "fold_mean": NaN,
+      "fold_std": NaN
+    },
+    {
+      "name": "blend_rank_random_search",
+      "auc": 0.8428102673685188,
+      "submission": "legal_tournament\\submissions\\blend_rank_random_search.csv",
+      "fold_mean": NaN,
+      "fold_std": NaN
+    },
+    {
+      "name": "blend_lr_meta_oof",
+      "auc": 0.8345713290845637,
+      "submission": "legal_tournament\\submissions\\blend_lr_meta_oof.csv",
+      "fold_mean": NaN,
+      "fold_std": NaN
+    }
+  ]
+}
