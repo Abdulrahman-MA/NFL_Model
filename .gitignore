@@ -1,3 +1,10 @@
 /.idea
 /.venv
 /Antigravity/__pycache__
+*.pkl
+*.ubj
+*.csv
+*.tfevents
+*.tsv
+*.zip
+create_submission_zip.py
