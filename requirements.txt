@@ -1,0 +1,14 @@
+﻿# Core (baseline notebook + legal_tournament)
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+catboost>=1.2
+lightgbm>=4.3
+xgboost>=2.0
+category_encoders>=2.6
+jupyterlab>=4.0
+
+# Antigravity experiments (optional)
+# optuna>=3.6      # tune_models.py
+# torch>=2.2       # run_v5_neural.py, run_v6_pseudo.py
+# autogluon.tabular>=1.1   # run_v7_autogluon.py

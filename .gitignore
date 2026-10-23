@@ -8,3 +8,9 @@
 *.tsv
 *.zip
 create_submission_zip.py
+
+# Generated artifacts
+catboost_info/
+__pycache__/
+.ipynb_checkpoints/
+AutogluonModels/

@@ -1,9 +1,9 @@
-# Archived Trials
+﻿# Archived Trials
 
-This folder contains older exploratory notebooks, generated submissions, exports, and CatBoost run artifacts.
+This folder contains older exploratory notebooks, generated submissions and exports. They are kept for history and debugging and are not part of the main pipeline.
 
-These files were moved here to keep the root folder audit-ready. They are retained for history and debugging, but the clean legal submission path is in:
+The main pipeline is in:
 
 - `../NFL_Clean_Legal_Submission.ipynb`
-- `../Data/submission_1st_Place.csv`
-- `../Data/submission_legal_catboost_full.csv`
+- `../legal_tournament/run_legal_tournament.py`
+- `../Data/submission.csv`
